@@ -1,0 +1,14 @@
+/Users/emrahelis/Hata-ExceptionYonetimi/bin/Debug/net8.0/Hata-ExceptionYonetimi
+/Users/emrahelis/Hata-ExceptionYonetimi/bin/Debug/net8.0/Hata-ExceptionYonetimi.deps.json
+/Users/emrahelis/Hata-ExceptionYonetimi/bin/Debug/net8.0/Hata-ExceptionYonetimi.runtimeconfig.json
+/Users/emrahelis/Hata-ExceptionYonetimi/bin/Debug/net8.0/Hata-ExceptionYonetimi.dll
+/Users/emrahelis/Hata-ExceptionYonetimi/bin/Debug/net8.0/Hata-ExceptionYonetimi.pdb
+/Users/emrahelis/Hata-ExceptionYonetimi/obj/Debug/net8.0/Hata-ExceptionYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Hata-ExceptionYonetimi/obj/Debug/net8.0/Hata-ExceptionYonetimi.AssemblyInfoInputs.cache
+/Users/emrahelis/Hata-ExceptionYonetimi/obj/Debug/net8.0/Hata-ExceptionYonetimi.AssemblyInfo.cs
+/Users/emrahelis/Hata-ExceptionYonetimi/obj/Debug/net8.0/Hata-ExceptionYonetimi.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Hata-ExceptionYonetimi/obj/Debug/net8.0/Hata-ExceptionYonetimi.dll
+/Users/emrahelis/Hata-ExceptionYonetimi/obj/Debug/net8.0/refint/Hata-ExceptionYonetimi.dll
+/Users/emrahelis/Hata-ExceptionYonetimi/obj/Debug/net8.0/Hata-ExceptionYonetimi.pdb
+/Users/emrahelis/Hata-ExceptionYonetimi/obj/Debug/net8.0/Hata-ExceptionYonetimi.genruntimeconfig.cache
+/Users/emrahelis/Hata-ExceptionYonetimi/obj/Debug/net8.0/ref/Hata-ExceptionYonetimi.dll
